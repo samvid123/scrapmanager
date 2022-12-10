@@ -1,0 +1,32 @@
+body
+{
+    background-image: url(wall.jpg);
+    background-position: center;
+    background-size: auto;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size:x-large
+}    
+
+.nav_links{
+    flex: 1;
+    text-align: right;
+}
+.nav_links ul li
+{
+    list-style: none;
+    letter-spacing: normal;
+    list-style-type: upper-latin;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+.nav_links ul li a
+{
+    color: #fff;
+    text-decoration: none;
+}
+.h1
+{
+    text-align: center;
+}
